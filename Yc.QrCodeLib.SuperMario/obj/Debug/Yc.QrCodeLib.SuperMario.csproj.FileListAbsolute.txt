@@ -41,3 +41,9 @@ E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.csprojResolveAssemblyReference.cache
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.pdb
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.SuperMario.dll
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.SuperMario.pdb
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.dll
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.csprojResolveAssemblyReference.cache
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.dll
+E:\github\YcQrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.pdb

@@ -54,3 +54,9 @@ E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.csprojResolveAssemblyReference.cache
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.pdb
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.Angry_Birds.dll
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.Angry_Birds.pdb
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.dll
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.csprojResolveAssemblyReference.cache
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.dll
+E:\github\YcQrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.pdb

@@ -48,3 +48,9 @@ E:\Yc.QrCode\Yc.QrCode\Yc.QrcodeLib.Test\bin\Debug\Yc.QrCodeLib.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.csprojResolveAssemblyReference.cache
 E:\Yc.QrCode\Yc.QrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.dll
 E:\Yc.QrCode\Yc.QrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.pdb
+E:\github\YcQrCode\Yc.QrcodeLib.Test\bin\Debug\Yc.QrcodeLib.Test.dll
+E:\github\YcQrCode\Yc.QrcodeLib.Test\bin\Debug\Yc.QrcodeLib.Test.pdb
+E:\github\YcQrCode\Yc.QrcodeLib.Test\bin\Debug\Yc.QrCodeLib.dll
+E:\github\YcQrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.csprojResolveAssemblyReference.cache
+E:\github\YcQrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.dll
+E:\github\YcQrCode\Yc.QrcodeLib.Test\obj\Debug\Yc.QrcodeLib.Test.pdb
