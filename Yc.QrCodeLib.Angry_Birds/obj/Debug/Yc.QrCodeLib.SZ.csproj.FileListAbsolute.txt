@@ -1,0 +1,7 @@
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\bin\Debug\Yc.QrCodeLib.SZ.dll
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\bin\Debug\Yc.QrCodeLib.SZ.pdb
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\bin\Debug\Yc.QrCodeLib.dll
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\bin\Debug\Yc.QrCodeLib.xml
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\obj\Debug\ResolveAssemblyReference.cache
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\obj\Debug\Yc.QrCodeLib.SZ.dll
+E:\SzProject\研发部\研发项目\个性二维码\YcCustomQrCode\Yc.QrCodeLib.SZ\obj\Debug\Yc.QrCodeLib.SZ.pdb
