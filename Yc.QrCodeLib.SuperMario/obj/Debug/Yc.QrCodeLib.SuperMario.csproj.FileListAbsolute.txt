@@ -35,3 +35,9 @@ E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLi
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.csprojResolveAssemblyReference.cache
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.dll
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.pdb
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.SuperMario.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.SuperMario.pdb
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\bin\Debug\Yc.QrCodeLib.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.csprojResolveAssemblyReference.cache
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.SuperMario\obj\Debug\Yc.QrCodeLib.SuperMario.pdb

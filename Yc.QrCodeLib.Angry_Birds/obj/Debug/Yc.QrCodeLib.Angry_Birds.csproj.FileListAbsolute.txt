@@ -48,3 +48,9 @@ E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLi
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.dll
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.dll
 E:\SzProject\研发部\研发项目\个性二维码开源项目\YcCustomQrCodeLib\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.pdb
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.Angry_Birds.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.Angry_Birds.pdb
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\bin\Debug\Yc.QrCodeLib.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.csprojResolveAssemblyReference.cache
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.dll
+E:\Yc.QrCode\Yc.QrCode\Yc.QrCodeLib.Angry_Birds\obj\Debug\Yc.QrCodeLib.Angry_Birds.pdb
