@@ -11,6 +11,9 @@ C#
 官方网站：
 http://original-ad.com
 
+Description
+http://original-ad.com/?product=个性二维码开源
+
 webApi：
 http://original-ad.com/qrCodeApi/qrCodeApi_Demo.html
 
