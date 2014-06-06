@@ -3,26 +3,8 @@
 
 码晒客/疯狂创意二维码，底层 ,模版制作开源
 
-手脚架：
 
-//创建个性二维码类库
-Yc.QrcodeLib.XXX
-//创建QrEncode 类
-QrEncode.cs
-//继承 CustomEncode
-public class QrEncode : Yc.QrCodeLib.custom.CustomEncode
-//生成验证 
-public QrEncode(string key)
-     : base(key)
- {
 
- }
- public override void SetParam()
- {
-        base.SetParam();
-        //TODO:设置具体参数
-  }
-        //个性二维码生成最小单元
         public override Bitmap Encode(string content)
         {
             try
@@ -59,3 +41,9 @@ public QrEncode(string key)
             }
             return image;
         }
+
+blog:		
+http://www.cnblogs.com/cheng5x
+
+码晒客讨论QQ群：
+28629273
