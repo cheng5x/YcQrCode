@@ -279,3 +279,6 @@ E:\Yc.QrCode\Yc.QrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.QrCodeSampleA
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.csproj.GenerateResource.Cache
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.exe
 E:\Yc.QrCode\Yc.QrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.pdb
+E:\github\YcQrCode\Yc.QrCode.Test\bin\Debug\Yc.QrCode.Test.exe.config
+E:\github\YcQrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.exe
+E:\github\YcQrCode\Yc.QrCode.Test\obj\x86\Debug\Yc.QrCode.Test.pdb

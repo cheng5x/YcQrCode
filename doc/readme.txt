@@ -12,7 +12,7 @@ C#
 http://original-ad.com
 
 Description
-http://original-ad.com/?product=个性二维码开源
+http://original-ad.com/?product=qrcode
 
 webApi：
 http://original-ad.com/qrCodeApi/qrCodeApi_Demo.html
