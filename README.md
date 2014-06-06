@@ -1,17 +1,17 @@
-YcQrCode
+ï»¿YcQrCode
 ========
 
-ÂëÉ¹¿Í/·è¿ñ´´Òâ¶şÎ¬Âë£¬µ×²ã ,Ä£°æÖÆ×÷¿ªÔ´
+ç æ™’å®¢/ç–¯ç‹‚åˆ›æ„äºŒç»´ç ï¼Œåº•å±‚ ,æ¨¡ç‰ˆåˆ¶ä½œå¼€æº
 
-ÊÖ½Å¼Ü£º
+æ‰‹è„šæ¶ï¼š
 
-//´´½¨¸öĞÔ¶şÎ¬ÂëÀà¿â
+//åˆ›å»ºä¸ªæ€§äºŒç»´ç ç±»åº“
 Yc.QrcodeLib.XXX
-//´´½¨QrEncode Àà
+//åˆ›å»ºQrEncode ç±»
 QrEncode.cs
-//¼Ì³Ğ CustomEncode
+//ç»§æ‰¿ CustomEncode
 public class QrEncode : Yc.QrCodeLib.custom.CustomEncode
-//Éú³ÉÑéÖ¤ 
+//ç”ŸæˆéªŒè¯ 
 public QrEncode(string key)
      : base(key)
  {
@@ -20,21 +20,21 @@ public QrEncode(string key)
  public override void SetParam()
  {
         base.SetParam();
-        //TODO:ÉèÖÃ¾ßÌå²ÎÊı
+        //TODO:è®¾ç½®å…·ä½“å‚æ•°
   }
-        //¸öĞÔ¶şÎ¬ÂëÉú³É×îĞ¡µ¥Ôª
+        //ä¸ªæ€§äºŒç»´ç ç”Ÿæˆæœ€å°å•å…ƒ
         public override Bitmap Encode(string content)
         {
             try
             {
                 matrix = QrCodeEncoder.calQrcode(EnCoding.GetBytes(content));
             }
-            catch { throw new Exception("ÄÚÈİ³¬³ö·¶Î§£¬ÇëÑ¡Ôñ¸ü¸ß°æ±¾»òÕß½µµÍÈİ´íÂÊ"); }
+            catch { throw new Exception("å†…å®¹è¶…å‡ºèŒƒå›´ï¼Œè¯·é€‰æ‹©æ›´é«˜ç‰ˆæœ¬æˆ–è€…é™ä½å®¹é”™ç‡"); }
 
             this.SetParam();
 
             //SolidBrush Backbrush = new SolidBrush(QrCodeEncoder.QRCodeBackgroundColor);
-            SolidBrush Backbrush = new SolidBrush(Color.Transparent);//±³¾°Í¸Ã÷
+            SolidBrush Backbrush = new SolidBrush(Color.Transparent);//èƒŒæ™¯é€æ˜
             SolidBrush Forebrush = new SolidBrush(QrCodeEncoder.QRCodeForegroundColor);
 
             Bitmap image = new Bitmap(this.QrCodeW, this.QrCodeH);
